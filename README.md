@@ -1,0 +1,2 @@
+# generator-maki
+yo maki
